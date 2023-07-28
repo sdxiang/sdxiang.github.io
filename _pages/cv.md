@@ -19,17 +19,18 @@ Experience
 ======
 * Sep 2022 - present: Graduate Student Research Assistant
   * University of Michigan School of Information
-  * Advisors: Daniel Romero, Misha Teplitskiy
+  * Advisors: [Daniel Romero](http://www.dromero.org), [Misha Teplitskiy](https://www.misha.mx)
 
 * May 2021 - May 2022: Undergraduate Research Assistant
   * Brown University Division of Applied Mathematics
-  * Advisor: Bj&ouml;rn Sandstede
+  * Advisor: [Bj&ouml;rn Sandstede](https://bjornsandstede.com)
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Talks
 ======
@@ -39,9 +40,13 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+* Undergraduate Teaching Assistant
+  * Brown University
+  * [PHYS 70: Analytical Mechanics](https://selfservice.brown.edu/ss/bwckctlg.p_disp_course_detail?cat_term_in=201310&subj_code_in=PHYS&crse_numb_in=0070)
+<!--  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service
 ======
