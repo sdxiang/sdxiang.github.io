@@ -43,10 +43,10 @@ Teaching
 * Undergraduate Teaching Assistant
   * Brown University
   * [PHYS 70: Analytical Mechanics](https://selfservice.brown.edu/ss/bwckctlg.p_disp_course_detail?cat_term_in=201310&subj_code_in=PHYS&crse_numb_in=0070)
-<!--  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
+
+<!--  <ul>{% for post in site.teaching %} -->
+<!--    {% include archive-single-cv.html %} -->
+<!--  {% endfor %}</ul> -->
   
 Service
 ======
