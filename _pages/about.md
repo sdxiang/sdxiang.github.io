@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year Ph.D student at the University of Michigan School of Information co-advised by [Misha Teplitskiy](https://www.misha.mx) and [Daniel Romero] (http://www.dromero.org).
+I am a 2nd year Ph.D student at the University of Michigan School of Information co-advised by [Misha Teplitskiy](https://www.misha.mx) and [Daniel Romero](http://www.dromero.org).
 
 My research interests encompass science of science, network science, and dynamical systems. I am interested in studying the dynamics of knowledge production, especially as it relates to the disciplinary structures and epistemic cultures of science.
 
