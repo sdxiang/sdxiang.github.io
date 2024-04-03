@@ -12,10 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Information Science, University of Michigan School of Information (2022 - present)
-* B.S. in Applied Mathematics, Brown University (2018 - 2022)
-  * GPA: 3.94
-* B.A. in Physics, Brown University (2018 - 2022)
-  * GPA: 3.88
+* B.S. in Applied Mathematics & B.A. in Physics, Brown University (2018 - 2022)
 
 Experience
 ======
