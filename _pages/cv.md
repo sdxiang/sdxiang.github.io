@@ -26,7 +26,7 @@ Experience
 
 In preparation
 ======
-* Sidney Xiang, Daniel Romero, and Misha Teplitskiy. "Peer evaluation of interdisciplinary research in scientific publishing". 
+* Sidney Xiang, Daniel Romero, and Misha Teplitskiy. "Scope narrowly, cite widely: Evaluations of research vary with interdisciplinarity of topic and knowledge-base". 
 
 <!-- Publications
 ======
