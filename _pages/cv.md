@@ -21,7 +21,8 @@ Experience
 * Graduate Student Research Assistant (2022 - present)
   * University of Michigan School of Information
   * Advisors: [Daniel Romero](http://www.dromero.org), [Misha Teplitskiy](https://www.misha.mx)
-
+* Data Science Graduate Intern (2024)
+  * US Government Accountability Office, Innovation Lab
 * Undergraduate Research Assistant (2021 - 2022)
   * Brown University Division of Applied Mathematics
   * Advisor: [Bj&ouml;rn Sandstede](https://bjornsandstede.com)
