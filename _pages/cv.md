@@ -28,7 +28,7 @@ Experience
 
 In review
 ======
-* Sidney Xiang, Daniel Romero, Misha Teplitskiy. "Evaluating interdisciplinary research: Disparate outcomes for topic and knowledge-base".
+* Sidney Xiang, Daniel Romero, Misha Teplitskiy. ["Evaluating interdisciplinary research: Disparate outcomes for topic and knowledge-base"](https://dx.doi.org/10.2139/ssrn.4823122).
 * Sidney Xiang, Daniel Romero, Misha Teplitskiy. "Research topic choice: Motivations, strategies, and consequences". 
 
 <!-- Publications
