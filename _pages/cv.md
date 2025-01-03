@@ -16,6 +16,8 @@ Education
 
 Experience
 ======
+* Graduate Student Instructor (2024 - present)
+  * University of Michigan School of Information
 * Graduate Student Research Assistant (2022 - present)
   * University of Michigan School of Information
   * Advisors: [Daniel Romero](http://www.dromero.org), [Misha Teplitskiy](https://www.misha.mx)
@@ -24,9 +26,10 @@ Experience
   * Brown University Division of Applied Mathematics
   * Advisor: [Bj&ouml;rn Sandstede](https://bjornsandstede.com)
 
-In preparation
+In review
 ======
-* Sidney Xiang, Daniel Romero, and Misha Teplitskiy. "Scope narrowly, cite widely: Evaluations of research vary with interdisciplinarity of topic and knowledge-base". 
+* Sidney Xiang, Daniel Romero, Misha Teplitskiy. "Evaluating interdisciplinary research: Disparate outcomes for topic and knowledge-base".
+* Sidney Xiang, Daniel Romero, Misha Teplitskiy. "Research topic choice: Motivations, strategies, and consequences". 
 
 <!-- Publications
 ======
@@ -41,6 +44,8 @@ Theses
   
 Presentations
 ======
+* International Conference on Computational Social Science (IC2S2). July 2024. "Evaluating interdisciplinary research: Disparate outcomes for topic and knowledge-base interdisciplinarity".
+* International Conference on the Science of Science and Innovation (ICSSI). July 2024. "Evaluating interdisciplinary research: Disparate outcomes for topic and knowledge-base interdisciplinarity". Runner-up for best student paper.
 * TOM PhD Summer School in Computational Organization Science. August 2023. "Postmortem promotion's effect on innovation diffusion: A network approach". Presented with Honglin Bao, Hong Chen, Joseph Nixon, Matthias Qian, and Rui Sun.
 * ISSI Workshop on Team Science and Innovation. July 2023. "Evaluation of interdisciplinary research in scientific publishing".
 * Brown University Division of Applied Mathematics Senior Thesis Day. April 2022. "Isola bifurcation structures of dynamical systems on random graphs".
@@ -48,8 +53,12 @@ Presentations
   
 Teaching
 ======
-* Undergraduate Teaching Assistant, Brown University
+* Graduate Student Instructor - University of Michigan, Ann Arbor
+  * SI 506: [Programming I](https://www.si.umich.edu/programs/courses/506) (Winter 2025)
+  * SI 301: [Models of Social Information Processing](https://www.si.umich.edu/programs/courses/301) (Fall 2024)
+* Undergraduate Teaching Assistant - Brown University
   * [PHYS 70: Analytical Mechanics](https://selfservice.brown.edu/ss/bwckctlg.p_disp_course_detail?cat_term_in=201310&subj_code_in=PHYS&crse_numb_in=0070) (Fall 2019)
+
 
 <!--  <ul>{% for post in site.teaching %} -->
 <!--    {% include archive-single-cv.html %} -->
